@@ -1,4 +1,9 @@
 <resources>
     <string name="app_name">MyTrips</string>
-    <string name="we">Welcome</string>
+    <string name="Sign_in">SIGN IN</string>
+    <string name="login">LOGIN</string>
+    <string name="Bellow_login">Please sign in to continue</string>
+    <string name="Bellow_lines">Don\'t have an account?</string>
+    <string name="Sign_up">Sign up</string>
+
 </resources>
